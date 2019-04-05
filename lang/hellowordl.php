@@ -1,1 +1,0 @@
-$string['helloworld'] = Hallo Weld!
